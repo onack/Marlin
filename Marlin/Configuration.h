@@ -1589,7 +1589,7 @@
 #ifdef XY2_MODELS
 #define NOZZLE_TO_PROBE_OFFSET { -50, -10, 0 }
 #else
-#define NOZZLE_TO_PROBE_OFFSET { -35, -0, 0 }
+#define NOZZLE_TO_PROBE_OFFSET { -41, -0, -3 }
 #endif
 
 // Most probes should stay away from the edges of the bed, but
